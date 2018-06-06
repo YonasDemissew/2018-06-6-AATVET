@@ -4,7 +4,7 @@ carpentry: "SWC"    # what kind of Carpentry (must be either "lc" or "dc" or "sw
 venue: "AATVET"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Addis ababa"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "et"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
-language: "English"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
+language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "9.026671,38.825777"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "jun 06-07,2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00am - 4:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
